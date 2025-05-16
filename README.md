@@ -27,11 +27,11 @@ This project analyzes the spatial distribution of soccer players within images f
 
 ## Dataset
 
-This project utilizes the "Football Player Segmentation" dataset (available on platforms like Kaggle - [link to dataset if applicable]). The dataset contains images of soccer matches with corresponding annotations providing polygon segmentations for each player.
+This project utilizes the "Football Player Segmentation" dataset (available on platforms like Kaggle - [{https://www.kaggle.com/datasets/ihelon/football-player-segmentation)]. The dataset contains images of soccer matches with corresponding annotations providing polygon segmentations for each player.
 
 ## Setup and Usage
 
-1.  **Clone the repository:** `git clone [your_repository_link]`
+1.  **Clone the repository:** `git clone https://github.com/felipervm/SoccerPlayerDistributionAnalysis`
 2.  **Download the dataset:** Obtain the "Football Player Segmentation" dataset and place the `images` and `annotations` directories within the project's main directory (or adjust the `images_path` and `annotations_path` variables in the code).
 3.  **Install dependencies:** Ensure you have the necessary Python libraries installed. You can install them using pip:
     ```bash
